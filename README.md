@@ -1,2 +1,2 @@
 # Chat_App
- I use node_js
+ I use node js to create this project
