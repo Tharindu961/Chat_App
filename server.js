@@ -1,3 +1,4 @@
+//it is runs on localhost port 3000
 const io = require('socket.io')(3000)
 
 io.on('connection', socket => {
